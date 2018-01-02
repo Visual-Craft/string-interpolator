@@ -1,0 +1,23 @@
+{
+    "name": "visual-craft/string-interpolator",
+    "description": "PHP library which provides string interpolation (variable expansion) functionality",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Bakai",
+            "email": "me@inso.im"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "VisualCraft\\StringInterpolator\\" : "src"
+        }
+    },
+    "require": {
+        "php": "^5.5.0|^7.0"
+    },
+    "require-dev": {
+        "kahlan/kahlan": "^4.0"
+    }
+}
