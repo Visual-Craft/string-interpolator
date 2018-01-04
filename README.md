@@ -1,4 +1,7 @@
 # String Interpolator
+
+[![Build Status](https://travis-ci.org/Visual-Craft/string-interpolator.svg?branch=master)](https://travis-ci.org/Visual-Craft/string-interpolator)
+
 PHP library which provides string interpolation (variable expansion) functionality
 
 ## Install
